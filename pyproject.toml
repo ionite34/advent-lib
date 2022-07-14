@@ -5,7 +5,8 @@ description = "Optimized Advent of Code libraries and solutions"
 authors = ["ionite34 <dev@ionite.io>"]
 
 [tool.poetry.dependencies]
-python = ">=3.7.2,<3.11"
+python = ">=3.8,<3.11"
+numpy = ">=1.22"
 numba = "^0.55.2"
 
 [tool.poetry.dev-dependencies]
