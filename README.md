@@ -1,24 +1,15 @@
-# python-template
+# Advent-Lib
 
-[![Build](https://github.com/ionite34/python-template/actions/workflows/build.yml/badge.svg)](https://github.com/ionite34/python-template/actions/workflows/build.yml)
-[![codecov](https://codecov.io/gh/ionite34/python-template/branch/main/graph/badge.svg)](https://codecov.io/gh/ionite34/python-template)
-[![DeepSource](https://deepsource.io/gh/ionite34/python-template.svg/?label=active+issues&show_trend=true&token=U949myD2-vuIl3F-Q8Lbg8iP)](https://deepsource.io/gh/ionite34/python-template/?ref=repository-badge)
+[![Build](https://github.com/ionite34/advent-lib/actions/workflows/build.yml/badge.svg)](https://github.com/ionite34/advent-lib/actions/workflows/build.yml)
+[![codecov](https://codecov.io/gh/ionite34/advent-lib/branch/main/graph/badge.svg?token=So4LY7PDsz)](https://codecov.io/gh/ionite34/advent-lib)
+[![DeepSource](https://deepsource.io/gh/ionite34/advent-lib.svg/?label=active+issues&show_trend=true&token=sMMt2cJNhooJ4wXh8Z3kXarC)](https://deepsource.io/gh/ionite34/advent-lib/?ref=repository-badge)
 
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/_)](https://pypi.org/project/_/)
-[![PyPI version](https://badge.fury.io/py/_.svg)](https://pypi.org/project/_/)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/advent-lib)](https://pypi.org/project/advent-lib/)
+[![PyPI version](https://badge.fury.io/py/advent-lib.svg)](https://pypi.org/project/advent-lib/)
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
 
-**Python package template using Poetry and GitHub CI**
+### Optimized Advent of Code function libraries and solutions using Numpy and Numba
 
-## External service tokens
-
-### [PyPI](https://pypi.org/)
-- **PYPI_TOKEN**
-> Builds and uploads to PyPI on new `published releases`
-
-### [DeepSource](https://deepsource.io/)
-- **DEEPSOURCE_CDN**
-> Code issue tracking, PR auto-transforms, coverage, and more
 
 ## Requirements
 ```

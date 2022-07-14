@@ -1,11 +1,12 @@
 [tool.poetry]
-name = "python-template"
+name = "advent-lib"
 version = "0.1.0"
-description = ""
+description = "Optimized Advent of Code libraries and solutions"
 authors = ["ionite34 <dev@ionite.io>"]
 
 [tool.poetry.dependencies]
 python = ">=3.7.2,<3.11"
+numba = "^0.55.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^7.1.2"
